@@ -1,1 +1,1 @@
-# lab-08-if-while2
+This is lab 08...more JavaScript conditionals.
